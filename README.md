@@ -2,9 +2,9 @@
 
 <h3> 🥰 &nbsp;Sobre mim </h3>
 
-- • &nbsp; faço robozinho pra discord.
-- • &nbsp; Pai
-- • &nbsp; Flamenguista
+- • faço robozinho pra discord.
+- • Pai
+- • Flamenguista
 
 **Meus projetos**
 
