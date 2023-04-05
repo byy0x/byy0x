@@ -22,7 +22,7 @@
 <a href="https://github.com/Brunnokkj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunnokkj&theme=midnight-purple&show_icons=true" />
 </a>
-
+ 
 <br/>
 
 <h3> 📱 &nbsp;Redes sociais: </h3> 
