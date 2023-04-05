@@ -28,9 +28,9 @@
 <h3> 📱 &nbsp;Redes sociais: </h3> 
 
  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/brunnofuzil"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/capotagrelo"/></a>
   
 
  <a href="#" alt="Discord">
-  <img src="https://img.shields.io/badge/-Discord-5a96e6?style=flat-square&labelColor=5a96e6&logo=discord&logoColor=white&link=https://discord.gg/kuqYjhruK6"/></a>
+  <img src="https://img.shields.io/badge/-Discord-5a96e6?style=flat-square&labelColor=5a96e6&logo=discord&logoColor=white&link=https://discord.gg/147"/></a>
   
