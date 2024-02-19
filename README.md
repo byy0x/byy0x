@@ -1,7 +1,7 @@
 # Fala gurizada!
 
 <div align="center">
-<img hight="300" width="50" alt="GIF" align="center" src="./assets/ab.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="./assets/ab.gif">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - Tenho 19 anos de idade, moro no brazil e programo desde os meus 14 aninhos.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/PcnDX7QUiP8AAAAd/anime-girl.gif">
+<img hight="200" width="300" alt="GIF" align="right" src="https://i.pinimg.com/originals/d7/58/aa/d758aad1a0d96fc54155eb62a04cd308.gif">
 
 ### - Aprendizado:
 - ✨ Construção de APIs RESTful utilizando Express.js.
